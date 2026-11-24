@@ -1,10 +1,21 @@
-﻿# CAMPUSLY
+# CAMPUSLY — Application Flutter de vie universitaire
 
 **Your Campus, Your Community.**
 
+## Présentation du projet
+
 Application Flutter de vie universitaire réalisée pour le module Développement mobile de l’Université Mundiapolis, classe **2ACINFO**. CAMPUSLY réunit un annuaire étudiant, un catalogue de cours, des favoris et des préférences dans une interface Material 3.
 
-Le projet utilise les exigences détaillées fournies dans la conversation. Le PDF `TP_Flutter_Widgets_2ACINFO.pdf` n’était pas présent dans le workspace : une comparaison supplémentaire avec ce fichier reste nécessaire s’il contient des consignes absentes du texte.
+L’application permet de rechercher des étudiants, de consulter leurs profils, de découvrir les cours et de personnaliser son expérience. Elle met en pratique les widgets Flutter **Icon**, **CircleAvatar**, **Card** et **ListTile**, avec des données de démonstration et une sauvegarde locale des préférences.
+
+## Réalisation en binôme
+
+Ce projet a été réalisé en binôme par :
+
+- **Abdelmounim Maani**
+- **Ibrahim Ellhiady**
+
+Université Mundiapolis · **2ACINFO** · Développement mobile — TP Flutter Widgets
 
 ## Objectifs pédagogiques
 
@@ -203,5 +214,3 @@ Dix captures réelles du rendu Flutter sont disponibles dans `docs/screenshots/`
 - [Sources des images et de la police](assets/ATTRIBUTION.md).
 
 Les e-mails utilisent `example.com` et les numéros sont volontairement non composables. Les portraits servent uniquement d’illustrations à des identités inventées.
-#   c a m p u s l y - f l u t t e r  
- 
