@@ -1,4 +1,4 @@
-# CAMPUSLY — Application Flutter de vie universitaire
+﻿# CAMPUSLY — Application Flutter de vie universitaire
 
 **Your Campus, Your Community.**
 
@@ -13,7 +13,7 @@ L’application permet de rechercher des étudiants, de consulter leurs profils,
 Ce projet a été réalisé en binôme par :
 
 - **Abdelmounim Maani**
-- **Ibrahim Ellhiady**
+- **Ibrahim Elhadady**
 
 Université Mundiapolis · **2ACINFO** · Développement mobile — TP Flutter Widgets
 
