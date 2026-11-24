@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-23",
+  "flutter": "3.50.0",
+  "dart": "3.14.0",
+  "runner": "Direct Flutter engine, flutter_test and test_api; standard Flutter CLI blocked by Windows subprocess-pipe permissions",
+  "passed": 16,
+  "failed": 0,
+  "tests": [
+    {
+      "name": "initiales handles",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "favorites, deletions",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "registrations and preferences",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "five navigation",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "search, detail",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "empty search",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "course card feedback",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "catalog search",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "dark mode changes",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "all five lab",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "missing and invalid",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "notification, privacy",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "keyboard open",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "width 320.0",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "width 800.0",
+      "passed": true,
+      "exitCode": 0
+    },
+    {
+      "name": "width 1440.0",
+      "passed": true,
+      "exitCode": 0
+    }
+  ]
+}
